@@ -2,4 +2,6 @@ Esta es mi historia
 
 Estoy haciendo un curso de Git y GitHub
 
+Master 1
+
 El futuro es hoy
